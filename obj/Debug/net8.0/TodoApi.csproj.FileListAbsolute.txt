@@ -1,0 +1,110 @@
+c:\Users\hi\Desktop\.net\TodoApi\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\hi\Desktop\.net\TodoApi\bin\Debug\net8.0\appsettings.json
+c:\Users\hi\Desktop\.net\TodoApi\bin\Debug\net8.0\TodoApi.exe
+c:\Users\hi\Desktop\.net\TodoApi\bin\Debug\net8.0\TodoApi.deps.json
+c:\Users\hi\Desktop\.net\TodoApi\bin\Debug\net8.0\TodoApi.runtimeconfig.json
+c:\Users\hi\Desktop\.net\TodoApi\bin\Debug\net8.0\TodoApi.dll
+c:\Users\hi\Desktop\.net\TodoApi\bin\Debug\net8.0\TodoApi.pdb
+c:\Users\hi\Desktop\.net\TodoApi\obj\Debug\net8.0\TodoApi.csproj.AssemblyReference.cache
+c:\Users\hi\Desktop\.net\TodoApi\obj\Debug\net8.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hi\Desktop\.net\TodoApi\obj\Debug\net8.0\TodoApi.AssemblyInfoInputs.cache
+c:\Users\hi\Desktop\.net\TodoApi\obj\Debug\net8.0\TodoApi.AssemblyInfo.cs
+c:\Users\hi\Desktop\.net\TodoApi\obj\Debug\net8.0\TodoApi.csproj.CoreCompileInputs.cache
+c:\Users\hi\Desktop\.net\TodoApi\obj\Debug\net8.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\hi\Desktop\.net\TodoApi\obj\Debug\net8.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\hi\Desktop\.net\TodoApi\obj\Debug\net8.0\staticwebassets\msbuild.build.TodoApi.props
+c:\Users\hi\Desktop\.net\TodoApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TodoApi.props
+c:\Users\hi\Desktop\.net\TodoApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TodoApi.props
+c:\Users\hi\Desktop\.net\TodoApi\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\hi\Desktop\.net\TodoApi\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\hi\Desktop\.net\TodoApi\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\hi\Desktop\.net\TodoApi\obj\Debug\net8.0\scopedcss\bundle\TodoApi.styles.css
+c:\Users\hi\Desktop\.net\TodoApi\obj\Debug\net8.0\TodoApi.dll
+c:\Users\hi\Desktop\.net\TodoApi\obj\Debug\net8.0\refint\TodoApi.dll
+c:\Users\hi\Desktop\.net\TodoApi\obj\Debug\net8.0\TodoApi.pdb
+c:\Users\hi\Desktop\.net\TodoApi\obj\Debug\net8.0\TodoApi.genruntimeconfig.cache
+c:\Users\hi\Desktop\.net\TodoApi\obj\Debug\net8.0\ref\TodoApi.dll
+c:\Users\hi\Desktop\.net\helloAPI\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\hi\Desktop\.net\helloAPI\bin\Debug\net8.0\appsettings.json
+c:\Users\hi\Desktop\.net\helloAPI\bin\Debug\net8.0\TodoApi.exe
+c:\Users\hi\Desktop\.net\helloAPI\bin\Debug\net8.0\TodoApi.deps.json
+c:\Users\hi\Desktop\.net\helloAPI\bin\Debug\net8.0\TodoApi.runtimeconfig.json
+c:\Users\hi\Desktop\.net\helloAPI\bin\Debug\net8.0\TodoApi.dll
+c:\Users\hi\Desktop\.net\helloAPI\bin\Debug\net8.0\TodoApi.pdb
+c:\Users\hi\Desktop\.net\helloAPI\obj\Debug\net8.0\TodoApi.csproj.AssemblyReference.cache
+c:\Users\hi\Desktop\.net\helloAPI\obj\Debug\net8.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hi\Desktop\.net\helloAPI\obj\Debug\net8.0\TodoApi.AssemblyInfoInputs.cache
+c:\Users\hi\Desktop\.net\helloAPI\obj\Debug\net8.0\TodoApi.AssemblyInfo.cs
+c:\Users\hi\Desktop\.net\helloAPI\obj\Debug\net8.0\TodoApi.csproj.CoreCompileInputs.cache
+c:\Users\hi\Desktop\.net\helloAPI\obj\Debug\net8.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\hi\Desktop\.net\helloAPI\obj\Debug\net8.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\hi\Desktop\.net\helloAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.TodoApi.props
+c:\Users\hi\Desktop\.net\helloAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TodoApi.props
+c:\Users\hi\Desktop\.net\helloAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TodoApi.props
+c:\Users\hi\Desktop\.net\helloAPI\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\hi\Desktop\.net\helloAPI\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\hi\Desktop\.net\helloAPI\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\hi\Desktop\.net\helloAPI\obj\Debug\net8.0\scopedcss\bundle\TodoApi.styles.css
+c:\Users\hi\Desktop\.net\helloAPI\obj\Debug\net8.0\TodoApi.dll
+c:\Users\hi\Desktop\.net\helloAPI\obj\Debug\net8.0\refint\TodoApi.dll
+c:\Users\hi\Desktop\.net\helloAPI\obj\Debug\net8.0\TodoApi.pdb
+c:\Users\hi\Desktop\.net\helloAPI\obj\Debug\net8.0\TodoApi.genruntimeconfig.cache
+c:\Users\hi\Desktop\.net\helloAPI\obj\Debug\net8.0\ref\TodoApi.dll
+C:\Users\hi\Desktop\.net\asp with node\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hi\Desktop\.net\asp with node\bin\Debug\net8.0\appsettings.json
+C:\Users\hi\Desktop\.net\asp with node\bin\Debug\net8.0\TodoApi.exe
+C:\Users\hi\Desktop\.net\asp with node\bin\Debug\net8.0\TodoApi.deps.json
+C:\Users\hi\Desktop\.net\asp with node\bin\Debug\net8.0\TodoApi.runtimeconfig.json
+C:\Users\hi\Desktop\.net\asp with node\bin\Debug\net8.0\TodoApi.dll
+C:\Users\hi\Desktop\.net\asp with node\bin\Debug\net8.0\TodoApi.pdb
+C:\Users\hi\Desktop\.net\asp with node\bin\Debug\net8.0\Jering.Javascript.NodeJS.dll
+C:\Users\hi\Desktop\.net\asp with node\obj\Debug\net8.0\TodoApi.csproj.AssemblyReference.cache
+C:\Users\hi\Desktop\.net\asp with node\obj\Debug\net8.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hi\Desktop\.net\asp with node\obj\Debug\net8.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\hi\Desktop\.net\asp with node\obj\Debug\net8.0\TodoApi.AssemblyInfo.cs
+C:\Users\hi\Desktop\.net\asp with node\obj\Debug\net8.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\hi\Desktop\.net\asp with node\obj\Debug\net8.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hi\Desktop\.net\asp with node\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hi\Desktop\.net\asp with node\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hi\Desktop\.net\asp with node\obj\Debug\net8.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hi\Desktop\.net\asp with node\obj\Debug\net8.0\staticwebassets\msbuild.build.TodoApi.props
+C:\Users\hi\Desktop\.net\asp with node\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TodoApi.props
+C:\Users\hi\Desktop\.net\asp with node\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TodoApi.props
+C:\Users\hi\Desktop\.net\asp with node\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hi\Desktop\.net\asp with node\obj\Debug\net8.0\scopedcss\bundle\TodoApi.styles.css
+C:\Users\hi\Desktop\.net\asp with node\obj\Debug\net8.0\TodoApi.csproj.Up2Date
+C:\Users\hi\Desktop\.net\asp with node\obj\Debug\net8.0\TodoApi.dll
+C:\Users\hi\Desktop\.net\asp with node\obj\Debug\net8.0\refint\TodoApi.dll
+C:\Users\hi\Desktop\.net\asp with node\obj\Debug\net8.0\TodoApi.pdb
+C:\Users\hi\Desktop\.net\asp with node\obj\Debug\net8.0\TodoApi.genruntimeconfig.cache
+C:\Users\hi\Desktop\.net\asp with node\obj\Debug\net8.0\ref\TodoApi.dll
+C:\Users\hi\Desktop\.net\asp with Express\obj\Debug\net8.0\TodoApi.csproj.AssemblyReference.cache
+C:\Users\hi\Desktop\.net\asp with Express\obj\Debug\net8.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hi\Desktop\.net\asp with Express\obj\Debug\net8.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\hi\Desktop\.net\asp with Express\obj\Debug\net8.0\TodoApi.AssemblyInfo.cs
+C:\Users\hi\Desktop\.net\asp with Express\obj\Debug\net8.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\hi\Desktop\.net\asp with Express\obj\Debug\net8.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hi\Desktop\.net\asp with Express\obj\Debug\net8.0\TodoApi.dll
+C:\Users\hi\Desktop\.net\asp with Express\obj\Debug\net8.0\refint\TodoApi.dll
+C:\Users\hi\Desktop\.net\asp with Express\obj\Debug\net8.0\TodoApi.pdb
+C:\Users\hi\Desktop\.net\asp with Express\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hi\Desktop\.net\asp with Express\bin\Debug\net8.0\appsettings.json
+C:\Users\hi\Desktop\.net\asp with Express\bin\Debug\net8.0\package-lock.json
+C:\Users\hi\Desktop\.net\asp with Express\bin\Debug\net8.0\package.json
+C:\Users\hi\Desktop\.net\asp with Express\bin\Debug\net8.0\TodoApi.exe
+C:\Users\hi\Desktop\.net\asp with Express\bin\Debug\net8.0\TodoApi.deps.json
+C:\Users\hi\Desktop\.net\asp with Express\bin\Debug\net8.0\TodoApi.runtimeconfig.json
+C:\Users\hi\Desktop\.net\asp with Express\bin\Debug\net8.0\TodoApi.dll
+C:\Users\hi\Desktop\.net\asp with Express\bin\Debug\net8.0\TodoApi.pdb
+C:\Users\hi\Desktop\.net\asp with Express\bin\Debug\net8.0\Jering.Javascript.NodeJS.dll
+C:\Users\hi\Desktop\.net\asp with Express\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hi\Desktop\.net\asp with Express\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hi\Desktop\.net\asp with Express\obj\Debug\net8.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hi\Desktop\.net\asp with Express\obj\Debug\net8.0\staticwebassets\msbuild.build.TodoApi.props
+C:\Users\hi\Desktop\.net\asp with Express\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TodoApi.props
+C:\Users\hi\Desktop\.net\asp with Express\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TodoApi.props
+C:\Users\hi\Desktop\.net\asp with Express\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hi\Desktop\.net\asp with Express\obj\Debug\net8.0\scopedcss\bundle\TodoApi.styles.css
+C:\Users\hi\Desktop\.net\asp with Express\obj\Debug\net8.0\TodoApi.csproj.Up2Date
+C:\Users\hi\Desktop\.net\asp with Express\obj\Debug\net8.0\TodoApi.genruntimeconfig.cache
+C:\Users\hi\Desktop\.net\asp with Express\obj\Debug\net8.0\ref\TodoApi.dll
